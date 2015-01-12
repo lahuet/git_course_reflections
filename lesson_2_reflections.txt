@@ -13,3 +13,7 @@ I can use the staging area to add changes that only pertain to one logical chang
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches help when I want to make new changes or branch onto a new project.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help me visualize the branch structure because I am a visual person.
