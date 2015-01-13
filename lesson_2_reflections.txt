@@ -17,3 +17,7 @@ Branches help when I want to make new changes or branch onto a new project.
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help me visualize the branch structure because I am a visual person.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches gets us one branch with changes from both branches onto it.
