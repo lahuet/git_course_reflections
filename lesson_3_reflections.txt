@@ -13,3 +13,7 @@ Clone copies a repository (from GitHub or from a local) to your local.  This cou
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So you can compare your branch with the remote even when you're offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git, we'd be emailing a lot of files back and forth and manually checking differences.  It's more time-consuming but easier to get a hold of.  Git has a steep learning curve but could be easier to use once past that hump.
