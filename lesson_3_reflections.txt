@@ -17,3 +17,8 @@ So you can compare your branch with the remote even when you're offline.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git, we'd be emailing a lot of files back and forth and manually checking differences.  It's more time-consuming but easier to get a hold of.  Git has a steep learning curve but could be easier to use once past that hump.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Make changes to a separate branch if merge is collaborative and must always be working.
+However, making changes directly to the master is simpler because you don't have to do merges.
